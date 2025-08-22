@@ -1,0 +1,13 @@
+.donation-history table {
+  font-size: 0.95rem;
+}
+
+.donation-history th {
+  background-color: #f8f9fa;
+}
+
+.donation-history td,
+.donation-history th {
+  padding: 8px;
+  text-align: center;
+}
